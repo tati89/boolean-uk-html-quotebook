@@ -4,7 +4,7 @@
 }
 
 .container {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .quotes h1 {
@@ -18,7 +18,7 @@
 
 .autor-quotes h2,
 .famous-people-quotes h2 {
-  padding-left: 14rem;
+  padding-left: 24.5rem;
   padding-bottom: 1rem;
   padding-top: 0.5rem;
   font-size: 1.4rem;
@@ -29,7 +29,7 @@
 .autor-quotes ul,
 .famous-people-quotes ul {
   width: 70vh;
-  margin-left: 210px;
+  margin-left: 390px;
   list-style: none;
 }
 
